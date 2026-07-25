@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Emilly Victorya 👋
 
-<!--
-**Rodrigurs/Rodrigurs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **basically:** if it's repetitive, i try to automate it.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 my stack (real world use)
+Python • HTML5 • CSS3 • JavaScript • Git & GitHub
+
+---
+
+### 🤖 tools & tech i work with
+Python • APIs • System Logic • Git • GitHub • Data Analysis
+
+---
+
+### 🎯 what i'm building
+→ **GetSenses** – Developer tools and technical system logic  
+→ **UniFood** – Food ordering platform for canteens  
+→ Smart automation systems & Python scripts to solve real problems  
+→ Functional full-stack applications focused on usability  
+
+---
+
+📫 **Get in touch:**
+- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com)
+- **Location:** Brasília, DF, Brasil 📍
